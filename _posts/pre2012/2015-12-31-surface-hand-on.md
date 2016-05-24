@@ -2,7 +2,6 @@
 layout: post
 title: "微软平板Surface试用手记"
 description: ""
-date : 2016-05-25 02:45:45
 category: 生活
 tags: [微软, 数码]
 ---
