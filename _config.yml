@@ -12,9 +12,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 镜中的自我
+      title: 用❤做每一件事情
 
-description: 生活、文艺与梦想
+description: 用❤做每一件事情
 # gavatar头像及Favicon
 gavatar: https://secure.gravatar.com/userimage/105676125/0107057cd2dd4174247251c470a85a2e?size=200
 favicon: https://secure.gravatar.com/userimage/105676125/0107057cd2dd4174247251c470a85a2e?size=200
@@ -23,12 +23,8 @@ author:
   name: 竹士
   email: 569349370@qq.com
   github: scott17090025902
-  twitter:
   bio: 知行合一,道术兼备
   email_md5: SjNaz7eZGvL2DpXzKaBoUg==
 
-rss_path: feed.xml
 categories_path: categories.html
-tags_path: tags.html
-
 BASE_PATH:
