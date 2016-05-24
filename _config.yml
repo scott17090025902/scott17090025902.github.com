@@ -27,4 +27,6 @@ author:
   email_md5: SjNaz7eZGvL2DpXzKaBoUg==
 
 categories_path: categories.html
+tags_path: tags.html
+
 BASE_PATH:
