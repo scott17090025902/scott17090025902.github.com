@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "小试牛刀"
-date: 2016-05-25 00:52:00
+description: "描述是什么东东"
 category: 日记
 tags: [诗词]
 ---
