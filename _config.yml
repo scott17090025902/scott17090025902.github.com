@@ -16,18 +16,16 @@ defaults:
 
 description: 生活、文艺与梦想
 # gavatar头像及Favicon
-gavatar: http://pic.yupoo.com/24plus/E2O4V5oL/medium.jpg
-favicon: http://pic.yupoo.com/24plus/E2O4V5oL/medium.jpg
+gavatar: https://secure.gravatar.com/userimage/105676125/0107057cd2dd4174247251c470a85a2e?size=200
+favicon: https://secure.gravatar.com/userimage/105676125/0107057cd2dd4174247251c470a85a2e?size=200
 
 author:
-  name: 七弦
-  email: lcm.hust@gmail.com
-  github: joshualeung
-  twitter: szjoshua
-  pinterest: joshualeung
-  linkedin: joshualeung
-  bio: 谁谓河广，一苇杭之
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: 竹士
+  email: 569349370@qq.com
+  github: scott17090025902
+  twitter:
+  bio: 知行合一,道术兼备
+  email_md5: SjNaz7eZGvL2DpXzKaBoUg==
 
 rss_path: feed.xml
 categories_path: categories.html
