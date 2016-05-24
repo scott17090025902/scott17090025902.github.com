@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 小试牛刀
+title: "小试牛刀"
 date: 2016-05-25 00:52:00
 category: 日记
 tags: [诗词]
