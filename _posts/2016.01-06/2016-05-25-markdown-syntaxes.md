@@ -36,6 +36,7 @@ git上的readme是md格式的,这里博客的博文也是md的,因此就好奇md
                 return single;
             }
         }
+
 -----------------------
 ⑤链接
 \[Markdown语法简介\]\(http://wowubuntu.com/markdown/index.html\)
